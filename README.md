@@ -10,11 +10,6 @@ A next-generation decentralized application (dApp) built on the Nero Chain using
 
 CONTRACT_ADDRESS = "0x8d2695a6a0f8cf928f76E0407C166ea6aeA691C0"
 
-## 📸 Visual Tour
-
-### Main Dashboard & Request Creation
-![Main Dashboard](./assets/dashboard_main.png)
-
 ## 🌟 Key Features
 
 - **Decentralized Service Escrow**: Create non-custodial work requests with an attached Nero tokens budget safely locked by the smart contract.
