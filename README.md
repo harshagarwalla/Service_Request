@@ -12,7 +12,6 @@ CONTRACT_ADDRESS = "0x8d2695a6a0f8cf928f76E0407C166ea6aeA691C0"
 
 ## 📸 Visual Tour
 
-
 ### Main Dashboard & Request Creation
 ![Main Dashboard](./assets/dashboard_main.png)
 
